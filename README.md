@@ -1,1 +1,2 @@
-# -Windows-Office-Edge-
+# Windows、Office和Edge的下载、安装和配置教程的成品和原始文档可在此处下载。
+Windows安装教程已正式上线。Office和Edge教程可能会在今年晚些时候上线。
